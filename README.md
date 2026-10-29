@@ -18,7 +18,7 @@ Para realizar dicho trabajo se utilizo un conjunto de datos meteorológicos prov
 
 ## Tecnologías utilizadas
 
-- Python
+-  Python
 - DuckDB
 - SQL
 - pandas
