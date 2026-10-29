@@ -70,6 +70,20 @@ Desde la carpeta principal del proyecto, ejecutar:
 El programa muestra en la terminal los resultados de las cinco consultas SQL.
 
 Los hallazgos y los tiempos de ejecución se documentarán después de ejecutar el análisis con el archivo CSV.
+El resltado final que nos muestra la terminal, es lo siguiente
+\n5. DÍAS CON MAYOR PRECIPITACIÓN
+     fecha                            estacion  precipitacion
+2018-05-14 DENVER INTERNATIONAL AIRPORT, CO US           0.66
+2018-05-03 DENVER INTERNATIONAL AIRPORT, CO US           0.64
+2018-07-24 DENVER INTERNATIONAL AIRPORT, CO US           0.43
+2018-08-15 DENVER INTERNATIONAL AIRPORT, CO US           0.38
+2018-10-08 DENVER INTERNATIONAL AIRPORT, CO US           0.36
+2018-03-19 DENVER INTERNATIONAL AIRPORT, CO US           0.33
+2018-04-21 DENVER INTERNATIONAL AIRPORT, CO US           0.32
+2018-03-27 DENVER INTERNATIONAL AIRPORT, CO US           0.32
+2018-08-07 DENVER INTERNATIONAL AIRPORT, CO US           0.31
+2018-03-29 DENVER INTERNATIONAL AIRPORT, CO US           0.31
+\nAnálisis finalizado correctamente.
 
 ## Uso de DuckDB
 
